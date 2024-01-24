@@ -1,5 +1,6 @@
 ﻿
 
+
 public class Solution {
     
     private void troca(ref int x, ref int y){ 
@@ -26,12 +27,15 @@ public class Solution {
 
 class Program{
     public static void Main(string[] args){
-        int[] nums = {1,2,3,4,5,5,5,5,6,7,8};
-        
+        //int[] nums = {1,2,3,4,5,5,5,5,6,7,8};
+        int[] nums = {0,1,2,2,3,0,4,2};
+        // I legit the it works on my machine meme
+        // I cannot get it to bug here, but on leetcode it doesnt accept it
+        // maybe we're using a different .NET version ?
 
         Solution s = new Solution();
 
-        int resposta =  s.RemoveElement(nums,5);
+        int resposta =  s.RemoveElement(nums,2);
         
 
         Console.WriteLine(resposta);
