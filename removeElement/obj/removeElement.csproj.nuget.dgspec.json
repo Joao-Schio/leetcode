@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/joaopedro/Desktop/dump/leetcode/removeElement/removeElement.csproj": {}
+    "/home/joao/leetcode/removeElement/removeElement.csproj": {}
   },
   "projects": {
-    "/home/joaopedro/Desktop/dump/leetcode/removeElement/removeElement.csproj": {
+    "/home/joao/leetcode/removeElement/removeElement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/joaopedro/Desktop/dump/leetcode/removeElement/removeElement.csproj",
+        "projectUniqueName": "/home/joao/leetcode/removeElement/removeElement.csproj",
         "projectName": "removeElement",
-        "projectPath": "/home/joaopedro/Desktop/dump/leetcode/removeElement/removeElement.csproj",
-        "packagesPath": "/home/joaopedro/.nuget/packages/",
-        "outputPath": "/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/",
+        "projectPath": "/home/joao/leetcode/removeElement/removeElement.csproj",
+        "packagesPath": "/home/joao/.nuget/packages/",
+        "outputPath": "/home/joao/leetcode/removeElement/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/joaopedro/.nuget/NuGet/NuGet.Config"
+          "/home/joao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -48,12 +48,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

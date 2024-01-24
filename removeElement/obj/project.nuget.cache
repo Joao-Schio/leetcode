@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "POxCYj9oaseBp8HJ0W+fHdkaSetxO5kI/HPMLAQbiO8LXdaalq5CJnKfQeFwDmaF9ajB4vLrOALCoFtfUSIAhA==",
+  "dgSpecHash": "TQsCNSKHgjRBnhB7elIK61V7co+0Q5jpIA3BlBF8+wpy2+eLG7XV6dOl/QnsqsFnNUpo3UhkpAHN2Y8G5Y93KA==",
   "success": true,
-  "projectFilePath": "/home/joaopedro/Desktop/dump/leetcode/removeElement/removeElement.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/joao/leetcode/removeElement/removeElement.csproj",
+  "expectedPackageFiles": [
+    "/home/joao/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.14/microsoft.netcore.app.host.linux-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
