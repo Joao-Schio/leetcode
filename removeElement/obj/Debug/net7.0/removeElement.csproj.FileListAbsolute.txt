@@ -1,0 +1,15 @@
+/home/joaopedro/Desktop/dump/leetcode/removeElement/bin/Debug/net7.0/removeElement
+/home/joaopedro/Desktop/dump/leetcode/removeElement/bin/Debug/net7.0/removeElement.deps.json
+/home/joaopedro/Desktop/dump/leetcode/removeElement/bin/Debug/net7.0/removeElement.runtimeconfig.json
+/home/joaopedro/Desktop/dump/leetcode/removeElement/bin/Debug/net7.0/removeElement.dll
+/home/joaopedro/Desktop/dump/leetcode/removeElement/bin/Debug/net7.0/removeElement.pdb
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.csproj.AssemblyReference.cache
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.GeneratedMSBuildEditorConfig.editorconfig
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.AssemblyInfoInputs.cache
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.AssemblyInfo.cs
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.csproj.CoreCompileInputs.cache
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.dll
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/refint/removeElement.dll
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.pdb
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/removeElement.genruntimeconfig.cache
+/home/joaopedro/Desktop/dump/leetcode/removeElement/obj/Debug/net7.0/ref/removeElement.dll
