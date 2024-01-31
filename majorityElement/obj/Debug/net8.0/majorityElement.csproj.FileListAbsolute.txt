@@ -1,0 +1,15 @@
+/home/joao/leetcode/majorityElement/bin/Debug/net8.0/majorityElement
+/home/joao/leetcode/majorityElement/bin/Debug/net8.0/majorityElement.deps.json
+/home/joao/leetcode/majorityElement/bin/Debug/net8.0/majorityElement.runtimeconfig.json
+/home/joao/leetcode/majorityElement/bin/Debug/net8.0/majorityElement.dll
+/home/joao/leetcode/majorityElement/bin/Debug/net8.0/majorityElement.pdb
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.AssemblyInfoInputs.cache
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.AssemblyInfo.cs
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.csproj.CoreCompileInputs.cache
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.sourcelink.json
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.dll
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/refint/majorityElement.dll
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.pdb
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/majorityElement.genruntimeconfig.cache
+/home/joao/leetcode/majorityElement/obj/Debug/net8.0/ref/majorityElement.dll
