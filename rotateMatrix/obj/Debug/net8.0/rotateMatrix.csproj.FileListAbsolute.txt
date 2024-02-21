@@ -1,0 +1,15 @@
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.AssemblyInfoInputs.cache
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.AssemblyInfo.cs
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.csproj.CoreCompileInputs.cache
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.sourcelink.json
+/home/joao/leetcode/rotateMatrix/bin/Debug/net8.0/rotateMatrix
+/home/joao/leetcode/rotateMatrix/bin/Debug/net8.0/rotateMatrix.deps.json
+/home/joao/leetcode/rotateMatrix/bin/Debug/net8.0/rotateMatrix.runtimeconfig.json
+/home/joao/leetcode/rotateMatrix/bin/Debug/net8.0/rotateMatrix.dll
+/home/joao/leetcode/rotateMatrix/bin/Debug/net8.0/rotateMatrix.pdb
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.dll
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/refint/rotateMatrix.dll
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.pdb
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/rotateMatrix.genruntimeconfig.cache
+/home/joao/leetcode/rotateMatrix/obj/Debug/net8.0/ref/rotateMatrix.dll
