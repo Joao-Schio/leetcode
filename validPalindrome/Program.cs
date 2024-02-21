@@ -5,6 +5,10 @@
 // but I wrote it when I just started coding
 
 
+// Se vc olhar meus outros repositorios publicos vc vai achar t1.c
+// que contem uma funcao de palindromo
+// mas eu escrevi quando eu estava comecando a programar
+
 public class Solution {
     private void format(ref string s){
         s = s.ToLower();
