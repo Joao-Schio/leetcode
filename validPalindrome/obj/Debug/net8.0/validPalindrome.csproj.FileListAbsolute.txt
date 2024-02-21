@@ -1,0 +1,15 @@
+/home/joao/leetcode/validPalindrome/bin/Debug/net8.0/validPalindrome
+/home/joao/leetcode/validPalindrome/bin/Debug/net8.0/validPalindrome.deps.json
+/home/joao/leetcode/validPalindrome/bin/Debug/net8.0/validPalindrome.runtimeconfig.json
+/home/joao/leetcode/validPalindrome/bin/Debug/net8.0/validPalindrome.dll
+/home/joao/leetcode/validPalindrome/bin/Debug/net8.0/validPalindrome.pdb
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.AssemblyInfoInputs.cache
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.AssemblyInfo.cs
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.csproj.CoreCompileInputs.cache
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.sourcelink.json
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.dll
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/refint/validPalindrome.dll
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.pdb
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/validPalindrome.genruntimeconfig.cache
+/home/joao/leetcode/validPalindrome/obj/Debug/net8.0/ref/validPalindrome.dll
